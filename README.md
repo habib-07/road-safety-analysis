@@ -4,6 +4,9 @@ Dashboard interactif d'analyse des accidents corporels de la circulation en Fran
 développé en R à partir de la base de données BAAC 2024 (Bulletin d'Analyse 
 des Accidents Corporels).
 
+## 🚀 Lien de l'application
+L'application est déployée sur shinyapps et consultable ici : 👉 [https://habib-dashboard.shinyapps.io/baac/]
+
 ## 🎯 Objectifs
 
 - Visualiser la distribution spatiale et temporelle des accidents
